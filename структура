@@ -1,0 +1,18 @@
+/project-root
+    index.html
+    /pages
+        sources.html
+        boilers.html
+        heat-pumps.html
+        ...
+        glossary.html
+        about.html
+    /css
+        style.css
+        responsive.css
+    /js
+        script.js
+    /images
+        logo.png
+        hero-image.jpg
+        ...
